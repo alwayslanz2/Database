@@ -1,38 +1,24 @@
 {
+  "settings": {
+    "maintenance_message": {
+      "en": "The bot is currently under maintenance. Please try again later.",
+      "id": "Bot sedang dalam perawatan. Silakan coba lagi nanti."
+    },
+    "last_updated": "2023-01-01T00:00:00.000Z"
+  },
+  "authorized_numbers": [
+    "6281249864586"
+  ],
+  "banned_users": [],
   "users": [
     {
       "USERNAME": "admin",
-      "PASSWORD": "admin123",
+      "PASSWORD": "lanzDev",
       "ACCESS": true,
       "OWNER": "Admin",
       "MAINTENANCE": false,
       "BANNED": false,
       "BAN_REASON": ""
-    },
-    {
-      "USERNAME": "lanz",
-      "PASSWORD": "lanz123",
-      "ACCESS": true,
-      "OWNER": "AlwaysLanz",
-      "MAINTENANCE": false,
-      "BANNED": false,
-      "BAN_REASON": ""
-    },
-    {
-      "USERNAME": "Danz",
-      "PASSWORD": "Danz11",
-      "ACCESS": true,
-      "OWNER": "lanzOwner",
-      "MAINTENANCE": false,
-      "BANNED": false,
-      "BAN_REASON": ""
     }
-  ],
-  "settings": {
-    "last_updated": "2025-06-12T14:17:08.976Z",
-    "maintenance_message": {
-      "en": "The system is currently under maintenance. Please try again later.",
-      "id": "Sistem sedang dalam pemeliharaan. Silakan coba lagi nanti."
-    }
-  }
+  ]
 }
